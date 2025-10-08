@@ -1,0 +1,11 @@
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\bin\Debug\DI-A1.6.exe.config
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\bin\Debug\DI-A1.6.exe
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\bin\Debug\DI-A1.6.pdb
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.csproj.AssemblyReference.cache
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI_A1._6.Form1.resources
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI_A1._6.Properties.Resources.resources
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.csproj.GenerateResource.cache
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.exe
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.pdb
+C:\Repositorio\Interfaces\DI-A1.6\DI-A1.6\obj\Debug\DI-A1.6.exe.config
