@@ -1,0 +1,13 @@
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\bin\Debug\DI-A1.9_RafaelMedina.exe.config
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\bin\Debug\DI-A1.9_RafaelMedina.exe
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\bin\Debug\DI-A1.9_RafaelMedina.pdb
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.csproj.AssemblyReference.cache
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI_A1._9_RafaelMedina.DatosUsuarioControl.resources
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI_A1._9_RafaelMedina.Properties.Resources.resources
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.csproj.GenerateResource.cache
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.exe
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.pdb
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI-A1.9_RafaelMedina.exe.config
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI_A1._9_RafaelMedina.FormPrincipal.resources
+C:\Repositorio\Interfaces\DI-A1.9_RafaelMedina\DI-A1.9_RafaelMedina\obj\Debug\DI_A1._9_RafaelMedina.Form2.resources

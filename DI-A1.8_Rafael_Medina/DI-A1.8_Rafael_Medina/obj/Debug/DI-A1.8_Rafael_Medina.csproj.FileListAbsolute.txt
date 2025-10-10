@@ -1,0 +1,14 @@
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\bin\Debug\DI-A1.8_Rafael_Medina.exe.config
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\bin\Debug\DI-A1.8_Rafael_Medina.exe
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\bin\Debug\DI-A1.8_Rafael_Medina.pdb
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.csproj.AssemblyReference.cache
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI_A1._8_Rafael_Medina.FormPrincipal.resources
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI_A1._8_Rafael_Medina.Properties.Resources.resources
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.csproj.GenerateResource.cache
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.exe
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.pdb
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI_A1._8_Rafael_Medina.FormCarta.resources
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI-A1.8_Rafael_Medina.exe.config
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI_A1._8_Rafael_Medina.FormPedidos.resources
+C:\Repositorio\Interfaces\DI-A1.8_Rafael_Medina\DI-A1.8_Rafael_Medina\obj\Debug\DI_A1._8_Rafael_Medina.UserControl1.resources

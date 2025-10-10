@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|c:\\repositorio\\interfaces\\di-a1.9_rafaelmedina\\di-a1.9_rafaelmedina\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|solutionrelative:di-a1.9_rafaelmedina\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|c:\\repositorio\\interfaces\\di-a1.9_rafaelmedina\\di-a1.9_rafaelmedina\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|solutionrelative:di-a1.9_rafaelmedina\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|c:\\repositorio\\interfaces\\di-a1.9_rafaelmedina\\di-a1.9_rafaelmedina\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|solutionrelative:di-a1.9_rafaelmedina\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|c:\\repositorio\\interfaces\\di-a1.9_rafaelmedina\\di-a1.9_rafaelmedina\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|solutionrelative:di-a1.9_rafaelmedina\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|c:\\repositorio\\interfaces\\di-a1.9_rafaelmedina\\di-a1.9_rafaelmedina\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8AEC1C-C499-4B53-81FD-55489CEEE1EB}|DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina.csproj|solutionrelative:di-a1.9_rafaelmedina\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form2.cs",
+              "RelativeDocumentMoniker": "DI-A1.9_RafaelMedina\\Form2.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form2.cs",
+              "RelativeToolTip": "DI-A1.9_RafaelMedina\\Form2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:57:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form1.cs",
+              "RelativeDocumentMoniker": "DI-A1.9_RafaelMedina\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form1.cs",
+              "RelativeToolTip": "DI-A1.9_RafaelMedina\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:50:01.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form2.cs",
+              "RelativeDocumentMoniker": "DI-A1.9_RafaelMedina\\Form2.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9_RafaelMedina\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:49:02.199Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosUsuarioControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\DatosUsuarioControl.cs",
+              "RelativeDocumentMoniker": "DI-A1.9_RafaelMedina\\DatosUsuarioControl.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\DatosUsuarioControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9_RafaelMedina\\DatosUsuarioControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:35:47.505Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form1.cs",
+              "RelativeDocumentMoniker": "DI-A1.9_RafaelMedina\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\DI-A1.9_RafaelMedina\\DI-A1.9_RafaelMedina\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9_RafaelMedina\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:34:35.236Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
