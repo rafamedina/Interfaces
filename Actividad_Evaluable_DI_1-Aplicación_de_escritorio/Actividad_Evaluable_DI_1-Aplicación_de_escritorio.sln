@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad_Evaluable_DI_1-Aplicación_de_escritorio", "Actividad_Evaluable_DI_1-Aplicación_de_escritorio\Actividad_Evaluable_DI_1-Aplicación_de_escritorio.csproj", "{0780C039-50D1-42AE-A0F9-BA3D6BE52562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0780C039-50D1-42AE-A0F9-BA3D6BE52562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0780C039-50D1-42AE-A0F9-BA3D6BE52562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0780C039-50D1-42AE-A0F9-BA3D6BE52562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0780C039-50D1-42AE-A0F9-BA3D6BE52562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC9CA59-F927-4CC5-94AF-BA64C76B84C5}
+	EndGlobalSection
+EndGlobal

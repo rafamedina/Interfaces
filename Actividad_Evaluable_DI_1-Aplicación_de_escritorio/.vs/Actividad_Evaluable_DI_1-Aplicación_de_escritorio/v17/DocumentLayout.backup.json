@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|c:\\repositorio\\interfaces\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0780C039-50D1-42AE-A0F9-BA3D6BE52562}|Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio.csproj|solutionrelative:actividad_evaluable_di_1-aplicaci\u00F3n_de_escritorio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDestinos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:26:07.067Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOfertas.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:44:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:21:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:18:09.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDestinos.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormDestinos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:47:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:19:36.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormReservas.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:56:44.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReservas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormReservas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:26:41.41Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:11:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormOfertas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad_Evaluable_DI_1-Aplicaci\u00F3n_de_escritorio\\FormOfertas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:26:22.245Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
