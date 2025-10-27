@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Repositorio\\Interfaces\\Prueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|c:\\repositorio\\interfaces\\prueba\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6CCF0371-F50C-40AB-8DE9-C607CDBB3B0E}|Prueba\\Prueba.csproj|c:\\repositorio\\interfaces\\prueba\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCF0371-F50C-40AB-8DE9-C607CDBB3B0E}|Prueba\\Prueba.csproj|solutionrelative:prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|c:\\repositorio\\interfaces\\prueba\\prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|solutionrelative:prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|c:\\repositorio\\interfaces\\prueba\\prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|solutionrelative:prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|c:\\repositorio\\interfaces\\prueba\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB0E0EEA-77E7-412C-92A5-F26F80900FD9}|Prueba\\Prueba.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F649F8F3-D798-4204-AFBB-ED178033DA5E}|Prueba2\\Prueba2.csproj|c:\\repositorio\\interfaces\\prueba\\prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F649F8F3-D798-4204-AFBB-ED178033DA5E}|Prueba2\\Prueba2.csproj|solutionrelative:prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Form1.cs",
-              "RelativeDocumentMoniker": "Prueba\\Form1.cs",
-              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Prueba\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba2\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba2\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba2\\Program.cs",
+              "RelativeToolTip": "Prueba2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T07:20:06.082Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserControl1.cs",
-              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\UserControl1.cs",
-              "RelativeDocumentMoniker": "Prueba\\UserControl1.cs",
-              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\UserControl1.cs",
-              "RelativeToolTip": "Prueba\\UserControl1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T07:53:49.502Z",
+              "WhenOpened": "2025-10-22T07:50:54.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserControl1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\UserControl1.cs",
-              "RelativeDocumentMoniker": "Prueba\\UserControl1.cs",
-              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\UserControl1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Prueba\\UserControl1.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Program.cs",
+              "RelativeToolTip": "Prueba\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T07:40:56.346Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Form1.cs",
-              "RelativeDocumentMoniker": "Prueba\\Form1.cs",
-              "ToolTip": "C:\\Repositorio\\Interfaces\\Prueba\\Prueba\\Form1.cs",
-              "RelativeToolTip": "Prueba\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T07:25:31.189Z",
+              "WhenOpened": "2025-10-22T07:18:08.872Z",
               "EditorCaption": ""
             }
           ]

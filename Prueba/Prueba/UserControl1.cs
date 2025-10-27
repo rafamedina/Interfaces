@@ -21,7 +21,9 @@ namespace Prueba
         public String Mensaje
         {
             get { return _mensaje; }
-            set { _mensaje = value;
+            set
+            {
+                _mensaje = value;
                 label1.Text = _mensaje;
                 label2.Text = _mensaje;
             }

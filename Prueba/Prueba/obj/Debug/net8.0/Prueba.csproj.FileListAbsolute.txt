@@ -1,0 +1,9 @@
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.Form1.resources
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.Properties.Resources.resources
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.UserControl1.resources
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.GenerateResource.cache
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interfaces\Prueba\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json

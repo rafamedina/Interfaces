@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PokéSpot — Detalles</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <svg class="pokeball-logo" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="45" fill="#fff" stroke="#333" stroke-width="5"></circle>
+        <path d="M5 50 a45 45 0 0 0 90 0" fill="#ee4a4a"></path>
+        <circle cx="50" cy="50" r="12" fill="#fff" stroke="#333" stroke-width="5"></circle>
+      </svg>
+      <h1>PokéSpot</h1>
+    </div>
+
+    <nav class="tabs" role="navigation" aria-label="Pestañas principales">
+      <a href="index.html" class="tab-link" data-tab="inicio">
+        <svg class="icon icon-home" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3 11.5L12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1V11.5z" />
+        </svg>
+        <span>Inicio</span>
+      </a>
+      <a href="detalles.html" class="tab-link" data-tab="detalles" aria-current="page">
+        <svg class="icon icon-details" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 11h3v2h-4V7h2v6z"/>
+        </svg>
+        <span>Detalles</span>
+      </a>
+      <a href="extras.html" class="tab-link" data-tab="extras">
+        <svg class="icon icon-extras" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3 6h18v2H3V6zm0 5h12v2H3v-2zm0 5h8v2H3v-2z"/>
+        </svg>
+        <span>Extras</span>
+      </a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <article class="detail-card" id="pokemon-detail">
+      <!-- Content populated by JS from dataset -->
+      <div class="detail-media">
+        <img id="detail-image" src="" alt="" />
+      </div>
+      <div class="detail-info">
+        <h2 id="detail-name">Nombre Pokémon</h2>
+        <p id="detail-category" class="category"></p>
+        <p id="detail-meta" class="meta"></p>
+
+        <section class="interactive">
+          <h3>Interacciones</h3>
+
+          <form id="capture-form" class="form-sim">
+            <label for="trainer-name">Nombre del entrenador</label>
+            <input id="trainer-name" type="text" placeholder="Ash Ketchum" />
+            <button type="submit" class="btn">Intentar capturar</button>
+            <div class="form-response" id="capture-response" aria-live="polite"></div>
+          </form>
+
+          <form id="comment-form" class="form-sim">
+            <label for="comment">Deja un comentario</label>
+            <textarea id="comment" rows="3" placeholder="¡Este Pokémon es increíble!"></textarea>
+            <button type="submit" class="btn neutral">Enviar comentario</button>
+            <div class="form-response" id="comment-response" aria-live="polite"></div>
+          </form>
+
+          <form id="subscribe-form" class="form-sim">
+            <label for="email">Suscribirse a novedades</label>
+            <input id="email" type="email" placeholder="tu@correo.com" />
+            <button type="submit" class="btn alt">Suscribirme</button>
+            <div class="form-response" id="subscribe-response" aria-live="polite"></div>
+          </form>
+
+        </section>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>PokéSpot — Página de detalles (simulada)</p>
+  </footer>
+
+  <script src="js/scripts.js"></script>
+</body>
+</html>
