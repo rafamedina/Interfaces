@@ -1,20 +1,22 @@
 const nombre = document.getElementById("nombre")
-const appelidos = document.getElementById("appelidos")
+const apellidos = document.getElementById("apellidos")
 const dni = document.getElementById("dni")
 const nie = document.getElementById("nie")
 const radioDni = document.getElementById("radioDni")
 const radioNie = document.getElementById("radioNie")
 const edad = document.getElementById("edad")
-const politicas = document.getElementById("politicas")
+const politicas = document.getElementById("politica")
 const contendorNie = document.getElementById("contenedorNie")
 const contendorDni = document.getElementById("contenedorDni")
 
 const contenedorInputs = document.getElementById("contenedorInputs")
+const formulario = document.getElementById("miFormulario")
 
-contendorDni.style.display = "none"
+
+contendorDni.style.display = "grid"
 contendorNie.style.display = "none"
 
-
+const listaInputs = [];
 radioDni.addEventListener("click", () => {
 
     contendorDni.style.display = "grid";
@@ -28,5 +30,30 @@ radioNie.addEventListener("click", () => {
     contendorNie.style.display = "grid";
     contendorDni.style.display = "none";
     dni.value = "";
+
+})
+
+formulario.addEventListener("submit", (e) => {
+    e.preventDefault()
+    listaInputs.push({ id: "nombre", valor: nombre.value })
+    listaInputs.push({ id: "edad", valor: edad.value })
+    listaInputs.push({ id: "politica", valor: politicas.value })
+    listaInputs.push({ id: "apellidos", valor: apellidos.value })
+
+    if (radioDni.checked) {
+        listaInputs.push({ id: "dni", valor: dni.value })
+    }
+    if (radioNie.checked) {
+        listaInputs.push({ id: "nie", valor: nie.value })
+    }
+
+    localStorage.setItem("misDatos", JSON.stringify(listaInputs))
+    console.log(localStorage.getItem("misDatos"))
+
+    setTimeout(() => {
+
+        alert("tengo tus datos, att: Panchiker")
+    }, 5000)
+
 
 })

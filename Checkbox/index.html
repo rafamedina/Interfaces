@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 
 <body>
@@ -28,9 +29,10 @@
 
             <div class="inputs opcion">
                 <label for="radioDni">DNI</label>
-                <input type="radio" value="dni" name="documento" id="radioDni">
+                <input type="radio" value="dni" name="documento" id="radioDni" checked="checked">
                 <label for="radioNie">NIE</label>
                 <input type="radio" value="nie" name="documento" id="radioNie">
+
             </div>
 
             <div class="dninie">
@@ -44,21 +46,32 @@
                     <input type="text" name="nie" id="nie">
                 </div>
 
-
             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             <div class="inputs politica">
                 <label for="politica">Politica de Privacidad</label>
-                <input checked="checked" type="checkbox" value="1">
+                <input checked="checked" type="checkbox" value="1" id="politica">
             </div>
 
 
         </div>
+        <button id="btn" type="submit">Guardar Datos</button>
     </form>
 
-
-
-    <!-- From Uiverse.io by TechByElijah -->
 
 
 
