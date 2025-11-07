@@ -10,16 +10,7 @@ enviar.addEventListener("click", (e) => {
     e.preventDefault()
 
     console.log(user.value, email.value, salary.value, cuentanos.value)
-
-
 }
-
-
-
-
-
-
-
 )
 
 
