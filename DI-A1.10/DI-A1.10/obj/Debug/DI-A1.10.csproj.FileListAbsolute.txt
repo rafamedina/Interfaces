@@ -1,0 +1,11 @@
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\bin\Debug\DI-A1.10.exe.config
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\bin\Debug\DI-A1.10.exe
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\bin\Debug\DI-A1.10.pdb
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI-A1.10.csproj.AssemblyReference.cache
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI_A1._10.Form1.resources
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI_A1._10.Properties.Resources.resources
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI_A1._10.UserControl1.resources
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI-A1.10.csproj.GenerateResource.cache
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI-A1.10.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI-A1.10.exe
+C:\Repositorio\Interfaces\DI-A1.10\DI-A1.10\obj\Debug\DI-A1.10.pdb
