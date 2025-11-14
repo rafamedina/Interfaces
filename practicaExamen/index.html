@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <h2>Formulario Guapardo</h2>
+
+    <form class="formulario">
+
+        <div class="form">
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="nombre" placeholder="nombre">
+            </div>
+            <div class="mb-3">
+                <label for="apellidos" class="form-label">Apellidos</label>
+                <input type="text" class="form-control" id="apellidos" placeholder="apellidos">
+            </div>
+            <div class="mb-3">
+                <label for="edad" class="form-label">Edad</label>
+                <input type="text" class="form-control" id="edad" placeholder="edad">
+            </div>
+            <div class="mb-3">
+                <label for="fechaNacimiento" class="form-label">Fecha de Nacimiento</label>
+                <input type="text" class="form-control" id="fechaNacimiento" placeholder="Fecha de Nacimiento">
+            </div>
+
+            <div class="inputs opcion">
+                <label for="radioDni">DNI</label>
+                <input type="radio" value="dni" name="documento" id="radioDni" checked="checked">
+                <label for="radioNie">NIE</label>
+                <input type="radio" value="nie" name="documento" id="radioNie">
+
+            </div>
+
+
+            <div id="dniDisplay" class="radioDNI mb-3">
+                <input type="text" class="form-control" id="dni" placeholder="Dni">
+            </div>
+            <div id="nieDisplay" class="radioNIE mb-3" style="display: none;">
+                <input type="text" class="form-control" id="nie" placeholder="Nie">
+            </div>
+            <button id="btn" type="submit">Boton</button>
+
+        </div>
+
+
+
+
+
+    </form>
+
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

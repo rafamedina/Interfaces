@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Desafíos actuales para un desarrollo sostenible — 2º DAM Grupo 2</title>
+    <style>
+        :root {
+            --bg: #0e1116;
+            /* dark slate */
+            --card: #121722;
+            --muted: #9fb3c8;
+            --text: #e9f1f7;
+            --accent: #2ec27e;
+            /* green */
+            --accent2: #1c7ed6;
+            /* blue */
+            --accent3: #f59e0b;
+            /* amber */
+            --accent4: #ef4444;
+            /* red */
+            --ring: 0 0 0 3px rgba(46, 194, 126, .25);
+            --radius: 18px;
+            --shadow: 0 10px 30px rgba(0, 0, 0, .35);
+            --ods1: #e5243b;
+            --ods2: #dda63a;
+            --ods3: #4c9f38;
+            --ods4: #c5192d;
+            --ods5: #ff3a21;
+            --ods6: #26bde2;
+            --ods7: #fcc30b;
+            --ods8: #a21942;
+            --ods9: #fd6925;
+            --ods10: #dd1367;
+            --ods11: #fd9d24;
+            --ods12: #bf8b2e;
+            --ods13: #3f7e44;
+            --ods14: #0a97d9;
+            --ods15: #56c02b;
+            --ods16: #00689d;
+            --ods17: #19486a;
+        }
+
+        * {
+            box-sizing: border-box
+        }
+
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(180deg, #0c1016, #0d121a 45%, #0a0f16);
+            color: var(--text);
+            font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial, sans-serif;
+        }
+
+        a {
+            color: var(--accent2);
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        .wrap {
+            max-width: 1080px;
+            margin: 0 auto;
+            padding: 28px
+        }
+
+        header {
+            display: grid;
+            gap: 18px;
+            align-items: center;
+            margin: 12px 0 18px
+        }
+
+        .title {
+            font-size: clamp(28px, 5vw, 46px);
+            font-weight: 800;
+            line-height: 1.05;
+            letter-spacing: .2px
+        }
+
+        .subtitle {
+            font-size: clamp(16px, 2.6vw, 20px);
+            opacity: .9
+        }
+
+        .chip {
+            display: inline-flex;
+            gap: 10px;
+            align-items: center;
+            background: linear-gradient(135deg, var(--accent2), var(--accent));
+            padding: 10px 14px;
+            border-radius: 999px;
+            color: #06141f;
+            font-weight: 700;
+            box-shadow: var(--shadow)
+        }
+
+        .meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            color: var(--muted);
+            font-size: 14px
+        }
+
+        nav {
+            position: sticky;
+            top: 10px;
+            z-index: 5;
+            background: #0d121a99;
+            backdrop-filter: blur(6px);
+            border: 1px solid #1c2633;
+            border-radius: 999px;
+            padding: 8px 12px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+            box-shadow: var(--shadow)
+        }
+
+        nav a {
+            padding: 8px 12px;
+            border-radius: 999px;
+            background: #101827;
+            border: 1px solid #1f2a38;
+            color: #c9d5e1;
+            font-weight: 600
+        }
+
+        nav a:hover {
+            box-shadow: var(--ring)
+        }
+
+        .grid {
+            display: grid;
+            gap: 18px
+        }
+
+        @media(min-width:920px) {
+            .grid {
+                grid-template-columns: repeat(12, 1fr)
+            }
+        }
+
+        .card {
+            grid-column: 1/-1;
+            background: linear-gradient(180deg, #0f1521, #0c121b);
+            border: 1px solid #1d2736;
+            border-radius: var(--radius);
+            padding: 22px 22px 18px;
+            box-shadow: var(--shadow)
+        }
+
+        .card h2 {
+            margin: 0 0 6px;
+            font-size: clamp(22px, 3.5vw, 30px)
+        }
+
+        .card p {
+            margin: 8px 0;
+            color: #d6e2ee
+        }
+
+        .pill {
+            display: inline-block;
+            padding: 6px 10px;
+            border-radius: 999px;
+            border: 1px solid #253249;
+            color: #b9cbe0;
+            margin: 6px 6px 0 0;
+            font-size: 13px
+        }
+
+        .ods-list {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 8px
+        }
+
+        @media(min-width:740px) {
+            .ods-list {
+                grid-template-columns: repeat(4, minmax(0, 1fr))
+            }
+        }
+
+        .ods {
+            border-radius: 14px;
+            padding: 14px;
+            border: 1px solid #223146;
+            background: #0d1420
+        }
+
+        .ods strong {
+            display: block;
+            margin-bottom: 6px
+        }
+
+        .kpi {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px
+        }
+
+        @media(min-width:740px) {
+            .kpi {
+                grid-template-columns: repeat(4, minmax(0, 1fr))
+            }
+        }
+
+        .kpicard {
+            padding: 16px;
+            border-radius: 16px;
+            background: #0b131c;
+            border: 1px solid #1f2a33
+        }
+
+        .kpicard h3 {
+            margin: 0 0 6px;
+            font-size: 30px
+        }
+
+        .kpicard span {
+            color: var(--muted)
+        }
+
+        .callout {
+            border-left: 5px solid var(--accent);
+            background: #0b1611;
+            border-radius: 12px;
+            padding: 12px 14px;
+            margin: 6px 0
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px
+        }
+
+        @media(min-width:900px) {
+            .row {
+                grid-template-columns: 1fr 1fr
+            }
+        }
+
+        .badge {
+            display: inline-flex;
+            gap: 8px;
+            align-items: center;
+            border: 1px solid #1e2a38;
+            border-radius: 999px;
+            padding: 6px 10px;
+            color: #c9d5e1;
+            background: #0f1722
+        }
+
+        footer {
+            margin: 40px 0 50px;
+            color: #9fb3c8
+        }
+
+        .btns {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap
+        }
+
+        .btn {
+            display: inline-flex;
+            gap: 10px;
+            align-items: center;
+            padding: 10px 14px;
+            border-radius: 12px;
+            border: 1px solid #1e2a38;
+            background: #0f1722;
+            color: #cfe5f7;
+            font-weight: 700
+        }
+
+        .btn:hover {
+            box-shadow: var(--ring)
+        }
+
+        .tag {
+            padding: 4px 8px;
+            border-radius: 10px;
+            border: 1px solid #243244;
+            background: #0c121a;
+            color: #a9c1d9;
+            font-size: 12px
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <header>
+            <span class="chip">ODS · Presentación</span>
+            <div class="title">Desafíos actuales para un desarrollo sostenible</div>
+            <div class="subtitle">“El futuro será sostenible… o no será.”</div>
+            <div class="meta">CampusFP – Humanes · 2º DAM – Grupo 2 · Alejandro Tovar · Marcos Pérez · Iker Acevedo ·
+                Rafael Medina</div>
+        </header>
+
+        <nav>
+            <a href="#intro">Introducción</a>
+            <a href="#def">Qué es</a>
+            <a href="#retos">Retos</a>
+            <a href="#dam">DAM</a>
+            <a href="#conclusion">Conclusión</a>
+            <a href="#fuentes">Fuentes</a>
+        </nav>
+
+        <section id="intro" class="grid" style="margin-top:18px">
+            <article class="card">
+                <h2>Introducción</h2>
+                <p>El desarrollo sostenible busca equilibrar tres pilares: <strong>economía</strong>,
+                    <strong>sociedad</strong> y <strong>medio ambiente</strong>. El reto: progresar sin comprometer el
+                    futuro de las próximas generaciones.</p>
+                <div class="kpi">
+                    <div class="kpicard" style="border-top:3px solid var(--ods13)">
+                        <h3>+1.1 °C</h3><span>Calentamiento global aprox.</span>
+                    </div>
+                    <div class="kpicard" style="border-top:3px solid var(--ods12)">
+                        <h3>50 Mt</h3><span>Residuos electrónicos/año</span>
+                    </div>
+                    <div class="kpicard" style="border-top:3px solid var(--ods10)">
+                        <h3>52%</h3><span>Riqueza en el 10% más rico</span>
+                    </div>
+                    <div class="kpicard" style="border-top:3px solid var(--ods7)">
+                        <h3>2050</h3><span>Meta neutralidad climática UE</span>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <section id="def" class="grid">
+            <article class="card">
+                <h2>¿Qué es el desarrollo sostenible?</h2>
+                <p>“Satisfacer las necesidades del presente sin comprometer las de las generaciones futuras.” (Informe
+                    Brundtland, 1987)</p>
+                <div class="row">
+                    <div class="ods"><strong style="color:var(--accent)">Pilar económico</strong> Innovación, empleo,
+                        eficiencia, economía circular.</div>
+                    <div class="ods"><strong style="color:var(--accent)">Pilar social</strong> Derechos, igualdad,
+                        educación, salud, cohesión.</div>
+                    <div class="ods"><strong style="color:var(--accent)">Pilar ambiental</strong> Clima, biodiversidad,
+                        recursos, contaminación.</div>
+                    <div class="ods"><strong style="color:var(--accent)">Agenda 2030</strong> 17 ODS como hoja de ruta
+                        global.</div>
+                </div>
+            </article>
+        </section>
+
+        <section id="retos" class="grid">
+            <article class="card">
+                <h2>Retos actuales para un desarrollo sostenible</h2>
+                <div class="row">
+                    <div class="ods"><strong style="color:var(--ods13)">Cambio climático</strong> Quema de fósiles,
+                        deforestación, eventos extremos.</div>
+                    <div class="ods"><strong style="color:var(--ods7)">Descarbonización</strong> Renovables, eficiencia,
+                        electrificación y cambios de hábitos.</div>
+                    <div class="ods"><strong style="color:var(--ods15)">Ecosistemas</strong> Servicios ecosistémicos en
+                        riesgo por contaminación y sobreexplotación.</div>
+                    <div class="ods"><strong style="color:var(--ods14)">Biodiversidad</strong> Pérdida acelerada de
+                        especies; sexta gran extinción.</div>
+                    <div class="ods"><strong style="color:var(--ods12)">Residuos</strong> De “usar y tirar” a reducir,
+                        reutilizar, reparar y reciclar.</div>
+                    <div class="ods"><strong style="color:var(--ods11)">Movilidad</strong> Activa, pública, compartida y
+                        digital para ciudades más sanas.</div>
+                    <div class="ods"><strong style="color:var(--ods10)">Desigualdad</strong> Brechas social, económica,
+                        de género, educativa y alimentaria.</div>
+                    <div class="ods"><strong style="color:var(--ods17)">Cooperación</strong> Alianzas entre gobiernos,
+                        empresas y ciudadanía.</div>
+                </div>
+                <div class="callout">
+                    <strong>Idea clave:</strong> La sostenibilidad exige decisiones coordinadas y medibles en los tres
+                    pilares.
+                </div>
+            </article>
+        </section>
+
+        <section id="dam" class="grid">
+            <article class="card">
+                <h2>Aplicación práctica al ámbito DAM</h2>
+                <div class="row">
+                    <div class="ods"><strong>Green coding</strong> Código limpio y eficiente; menos CPU/RAM; consultas
+                        optimizadas; tareas en segundo plano solo cuando aporten valor; <em>dark mode</em> en OLED.
+                    </div>
+                    <div class="ods"><strong>Apps con impacto</strong> Reciclaje, huella de carbono personal, movilidad
+                        compartida, donaciones y reutilización.</div>
+                    <div class="ods"><strong>Huella digital</strong> Comprimir imágenes/vídeos, minimizar paquetes,
+                        datos obsoletos fuera, uso responsable de la nube.</div>
+                    <div class="ods"><strong>Accesibilidad e inclusión</strong> WCAG, multilenguaje, lectura fácil, UX
+                        clara → reduce brechas y desigualdad.</div>
+                </div>
+                <p class="callout"><strong>Proyecto idea exprés:</strong> “EcoTrack DAM” — app multiplataforma que mide
+                    el ahorro de CO₂ del alumnado (transporte, reciclaje, consumo digital) con rankings y retos por
+                    clase.</p>
+            </article>
+        </section>
+
+        <section id="conclusion" class="grid">
+            <article class="card">
+                <h2>Conclusión</h2>
+                <p>El desarrollo sostenible no es opcional: es el camino para equilibrar progreso humano y salud del
+                    planeta. La tecnología puede ser parte del problema o de la solución; en nuestras manos está.</p>
+                <div class="callout"><strong>Cierre:</strong> “No podemos elegir entre crecer o cuidar el planeta.
+                    Debemos hacer ambas cosas.”</div>
+            </article>
+        </section>
+
+        <section id="fuentes" class="grid">
+            <article class="card">
+                <h2>Fuentes y herramientas</h2>
+                <ul>
+                    <li>Naciones Unidas – Objetivos de Desarrollo Sostenible</li>
+                    <li>IPCC – Panel sobre Cambio Climático</li>
+                    <li>PNUMA – Programa de la ONU para el Medio Ambiente</li>
+                    <li>Banco Mundial – Gestión de residuos</li>
+                    <li>Agencia Internacional de la Energía</li>
+                    <li>INE · Eurostat</li>
+                    <li>Global E‑Waste Monitor</li>
+                    <li><span class="tag">ChatGPT (OpenAI) – herramienta de apoyo</span></li>
+                </ul>
+            </article>
+        </section>
+
+        <footer class="grid">
+            <article class="card">
+                <div class="btns">
+                    <a class="btn" href="#intro">↑ Volver arriba</a>
+                    <button class="btn" onclick="window.print()">🖨️ Exportar a PDF</button>
+                </div>
+                <p style="margin-top:8px" class="meta">CampusFP – Humanes · Curso 2025/2026 · 2º DAM – Grupo 2</p>
+            </article>
+        </footer>
+    </div>
+
+    <script>
+        // Desplazamiento suave para anclas
+        document.querySelectorAll('a[href^="#"]').forEach(a => {
+            a.addEventListener('click', e => {
+                const id = a.getAttribute('href');
+                if (id.length > 1) {
+                    e.preventDefault();
+                    document.querySelector(id).scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
