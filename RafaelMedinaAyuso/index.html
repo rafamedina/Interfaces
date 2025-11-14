@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Registro</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main>
+
+        <form class="form-control formulario" id="form">
+
+            <h2>Formulario de Registro</h2>
+            <!-- Nombre -->
+
+            <div class="mb-3">
+                <label for="Nombre" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="Nombre" aria-describedby="nombreHelp"
+                    placeholder="Ingresa tu nombre" required>
+
+            </div>
+
+            <!-- apellidos  -->
+
+
+            <div class="mb-3">
+                <label for="Apellidos" class="form-label">Apellidos</label>
+                <input type="text" class="form-control" id="Apellidos" aria-describedby="apellidosHelp"
+                    placeholder="Ingresa tus apellidos" required>
+            </div>
+
+            <!--Email  -->
+
+            <div class="mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="Email" aria-describedby="emailHelp"
+                    placeholder="Ingresa tu correo" required>
+            </div>
+
+            <!-- telefono -->
+
+
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Teléfono</label>
+                <input type="tel" class="form-control" id="telefono" aria-describedby="telefonoHelp"
+                    placeholder="Ingresa tu telefono" required>
+            </div>
+
+            <!-- Usuario  -->
+            <div class="mb-3">
+                <label for="Usuario" class="form-label">Usuario</label>
+                <input type="text" class="form-control" id="Usuario" aria-describedby="UsuarioHelp"
+                    placeholder="Ingresa tu Nombre de Usuario" required>
+            </div>
+
+
+            <!-- Domicilio  -->
+            <div class="form-control formularioDOM">
+                <div class="mb-3">
+                    <label for="direccion" class="form-label">Dirección</label>
+                    <input type="text" class="form-control" id="direccion" aria-describedby="direccionHelp"
+                        placeholder="Ingresa tu direccion" required>
+                </div>
+                <div class="mb-3">
+                    <label for="ciudad" class="form-label">Ciudad</label>
+                    <input type="text" class="form-control" id="ciudad" aria-describedby="ciudadHelp"
+                        placeholder="Ingresa tu ciudad" required>
+                </div>
+                <div class="mb-3">
+                    <label for="cp" class="form-label">CP</label>
+                    <input type="text" class="form-control" id="cp" aria-describedby="cpHelp"
+                        placeholder="Ingresa tu código postal" required>
+                </div>
+            </div>
+
+
+            <!-- Contraseña -->
+            <div class="mb-3">
+                <label for="password1" class="form-label">Contraseña</label>
+                <input type="password" class="form-control" id="password1" required>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="password2" class="form-label">Confirmar Contraseña</label>
+                <input type="password" class="form-control" id="password2" required>
+            </div>
+
+
+            <!-- Grado  -->
+            <div class="mb-6 ">
+                <select class="form-select" id="form-select" aria-label="Default select example" required>
+                    <option selected>Preferencia de contacto</option>
+                    <option value="1">Telefono</option>
+                    <option value="2">Email</option>
+                    <option value="3">Ambos</option>
+                </select>
+            </div>
+
+            <!-- Políticas -->
+
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" value="1" required>
+                <label class="form-check-label" for="exampleCheck1">Aceptar Políticas</label>
+            </div>
+
+
+            <button id="btn" type=" submit" disabled class="btn btn-primary">Enviar Registro</button>
+        </form>
+    </main>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
